@@ -1,0 +1,6 @@
+{
+  "name": "TM BAYONOV MMA",
+  "description": "Платформаи пурраи идоракунии толори ҷангии TM BAYONOV MMA дар Тоҷикистон. Идоракунии шогирдон, абонементҳо, қарздорон, пардохтҳо, давомот ва автоматикунонии қабулгоҳ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
